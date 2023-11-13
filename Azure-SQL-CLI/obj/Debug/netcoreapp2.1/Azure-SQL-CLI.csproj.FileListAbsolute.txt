@@ -1,0 +1,11 @@
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\bin\Debug\netcoreapp2.1\Azure-SQL-CLI.deps.json
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\bin\Debug\netcoreapp2.1\Azure-SQL-CLI.runtimeconfig.json
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\bin\Debug\netcoreapp2.1\Azure-SQL-CLI.runtimeconfig.dev.json
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\bin\Debug\netcoreapp2.1\Azure-SQL-CLI.dll
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\bin\Debug\netcoreapp2.1\Azure-SQL-CLI.pdb
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\obj\Debug\netcoreapp2.1\Azure-SQL-CLI.csproj.AssemblyReference.cache
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\obj\Debug\netcoreapp2.1\Azure-SQL-CLI.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\obj\Debug\netcoreapp2.1\Azure-SQL-CLI.AssemblyInfoInputs.cache
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\obj\Debug\netcoreapp2.1\Azure-SQL-CLI.AssemblyInfo.cs
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\obj\Debug\netcoreapp2.1\Azure-SQL-CLI.dll
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\Azure-SQL-CLI\obj\Debug\netcoreapp2.1\Azure-SQL-CLI.pdb

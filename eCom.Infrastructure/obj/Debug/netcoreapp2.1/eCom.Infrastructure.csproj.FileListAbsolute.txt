@@ -1,0 +1,11 @@
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\bin\Debug\netcoreapp2.1\eCom.Infrastructure.deps.json
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\bin\Debug\netcoreapp2.1\eCom.Infrastructure.runtimeconfig.json
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\bin\Debug\netcoreapp2.1\eCom.Infrastructure.runtimeconfig.dev.json
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\bin\Debug\netcoreapp2.1\eCom.Infrastructure.dll
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\bin\Debug\netcoreapp2.1\eCom.Infrastructure.pdb
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\obj\Debug\netcoreapp2.1\eCom.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\obj\Debug\netcoreapp2.1\eCom.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\obj\Debug\netcoreapp2.1\eCom.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\obj\Debug\netcoreapp2.1\eCom.Infrastructure.AssemblyInfo.cs
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\obj\Debug\netcoreapp2.1\eCom.Infrastructure.dll
+C:\Users\Peter\Documents\Charmer test\Azure-SQL-CLI\eCom.Infrastructure\obj\Debug\netcoreapp2.1\eCom.Infrastructure.pdb
